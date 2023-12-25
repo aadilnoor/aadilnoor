@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilnoor&label=Profile%20views&color=0e75b6&style=flat" alt="aadilnoor" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Programing Languages**
 
 - 📫 How to reach me **aadilnoor976@gmail.com**
 
