@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aadil-noor-93a244265?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadil noor" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadilnoor976" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khan.aadil.503092?mibextid=zLoPMf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khan aadil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anonymoussoul______?igsh=MThubDV1Y256ejRjeA==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadilnoor976" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
