@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Backend%20Engineering%20Portfolio&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aadilnoor&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
