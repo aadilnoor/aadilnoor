@@ -114,8 +114,8 @@ Tech Stack: Java, Spring Security, JWT
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aadilnoor976@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:aadilnoor976@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/aadilnoor976">
@@ -134,5 +134,5 @@ Tech Stack: Java, Spring Security, JWT
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=00F7FF" />
 </p>
