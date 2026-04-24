@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadilnoor&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadilnoor&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## Profile Summary
