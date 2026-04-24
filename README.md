@@ -134,5 +134,5 @@ Tech Stack: Java, Spring Security, JWT
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00F7FF&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2c5364,100:0f2027&height=120&section=footer&animation=fadeIn" />
 </p>
