@@ -110,23 +110,17 @@ Tech Stack: Java, Spring Security, JWT
 ## Contact
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aadil-noor-93a244265" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/aadil-noor-93a244265">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:aadilnoor976@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/aadilnoor976" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/aadilnoor976">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
-
 </p>
 
 
