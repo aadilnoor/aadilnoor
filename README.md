@@ -1,11 +1,17 @@
-<h1 align="center">Aadil Noor</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=26&lines=Java+Backend+Engineer;Scalable+System+Builder;REST+API+Specialist;Clean+Code+Advocate" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadil%20Noor&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Scalable+System+Builder;REST+API+Specialist;Clean+Code+Advocate" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=160&section=header&text=Backend%20Engineering%20Portfolio&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadilnoor&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -13,23 +19,40 @@
 ## Profile Summary
 Java Backend Engineer with strong fundamentals in object-oriented programming and database systems.  
 Focused on designing scalable backend services, building REST APIs, and writing maintainable code.  
-Comfortable working with real-world problem solving and structured application development.
+Comfortable solving real-world problems with structured and efficient solutions.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
+</p>
 
 ---
 
 ## Core Competencies
-- Backend Development (Java, Spring)
+- Backend Development (Java, Spring)  
 - REST API Design & Integration  
 - Database Design (MySQL)  
 - Object-Oriented Programming (OOP)  
 - Version Control (Git, GitHub)  
 - Debugging & Performance Optimization  
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
+</p>
+
 ---
 
 ## Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,linux,postman,c" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,linux,postman,c&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Backend+Development;API+Design;Database+Modeling;System+Thinking" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
 </p>
 
 ---
@@ -38,38 +61,36 @@ Comfortable working with real-world problem solving and structured application d
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend API System
-Scalable REST API built using Java and Spring architecture with proper layering and validation.
+### OTP Generator System  
+Robust OTP generation and validation service designed for secure authentication workflows.
 
-Tech Stack: Java, Spring, MySQL, REST  
-<a href="https://github.com/aadilnoor/otp-generator-app">View Repository</a>
+Tech Stack: Java, Spring Boot, MySQL  
+<a href="https://github.com/aadilnoor/otp-generator-app">Explore Project</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Authentication Service
-Secure authentication system implementing JWT-based authorization and role-based access.
+### Authentication Service  
+JWT-based authentication and authorization system with role-based access control.
 
 Tech Stack: Java, Spring Security, JWT  
-<a href="https://github.com/aadilnoor/auth-app-backend">View Repository</a>
+<a href="https://github.com/aadilnoor/authentication-app">Explore Project</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## Engineering Focus
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&center=true&vCenter=true&lines=Backend+Architecture;API+Development;Database+Modeling;Clean+Code+Practices;System+Design+Basics" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
 </p>
 
 ---
 
 ## GitHub Insights
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aadilnoor&show_icons=true&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilnoor&theme=tokyonight&hide_border=true" />
@@ -82,22 +103,28 @@ Tech Stack: Java, Spring Security, JWT
 ---
 
 ## Contribution Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadilnoor&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## Contact
+
 <p align="center">
 <a href="https://www.linkedin.com/in/aadil-noor-93a244265">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:aadilnoor976@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/aadilnoor976">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
@@ -106,12 +133,13 @@ Tech Stack: Java, Spring Security, JWT
 ---
 
 ## Philosophy
+
 <p align="center">
-"Good code is not just functional — it is readable, scalable, and built to last."
+"Consistency, clarity, and discipline in engineering define long-term impact."
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00F7FF&height=120&section=footer&animation=twinkling" />
 </p>
