@@ -115,8 +115,8 @@ Tech Stack: Java, Spring Security, JWT
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
-<a href="mailto:aadilnoor976@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aadilnoor976%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:aadilnoor976@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
