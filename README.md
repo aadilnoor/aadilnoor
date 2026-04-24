@@ -3,12 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Scalable+System+Builder;REST+API+Specialist;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Specialist;Building+Scalable+REST+APIs;Microservices+Architecture+Enthusiast;Clean+Code+%26+System+Design" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilnoor&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
