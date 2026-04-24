@@ -20,13 +20,15 @@ Comfortable solving real-world problems with structured and efficient solutions.
 
 ---
 
-## Core Competencies
-- Backend Development (Java, Spring)  
-- REST API Design & Integration  
-- Database Design (MySQL)  
-- Object-Oriented Programming (OOP)  
-- Version Control (Git, GitHub)  
-- Debugging & Performance Optimization  
+## Skills
+
+- Develop backend applications using Java, Spring, and Spring Boot  
+- Build and manage RESTful APIs for scalable systems  
+- Design and work with MySQL databases and data models  
+- Understand and apply OOP principles in real-world applications  
+- Implement microservices architecture and service-based design  
+- Use Git and GitHub for version control and collaboration  
+- Debug, test, and optimize application performance     
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
