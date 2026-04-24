@@ -34,22 +34,31 @@ Comfortable working with real-world problem solving and structured application d
 
 ---
 
-## Featured Projects
-<p align="center">
+## Featured Work
 
-<a href="https://github.com/aadilnoor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aadilnoor&repo=your-repo-1&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/aadilnoor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aadilnoor&repo=your-repo-2&theme=tokyonight&hide_border=true" />
-</a>
+### Backend API System
+Scalable REST API built using Java and Spring architecture with proper layering and validation.
 
-</p>
+Tech Stack: Java, Spring, MySQL, REST  
+<a href="https://github.com/aadilnoor/otp-generator-app">View Repository</a>
 
-<p align="center">
-Replace <b>your-repo-1</b> and <b>your-repo-2</b> with your actual best projects
-</p>
+</td>
+
+<td width="50%">
+
+### Authentication Service
+Secure authentication system implementing JWT-based authorization and role-based access.
+
+Tech Stack: Java, Spring Security, JWT  
+<a href="https://github.com/aadilnoor/auth-app-backend">View Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
