@@ -60,13 +60,15 @@ I enjoy solving programming challenges, understanding backend systems, and conti
 **Database & Caching**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 **DevOps & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,linux,postman" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 **Frontend Technologies**
