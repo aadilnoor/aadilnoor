@@ -1,87 +1,207 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aadil%20Noor&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</p>
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Specialist;Building+Scalable+REST+APIs;Microservices+Architecture+Enthusiast;Clean+Code+%26+System+Design" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=AADIL%20NOOR&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=JAVA%20BACKEND%20DEVELOPER&descSize=17&descAlignY=70&descColor=00D9FF" width="100%" />
 
-## Profile Summary
-Java Backend Engineer with strong fundamentals in object-oriented programming and database systems.  
-Focused on designing scalable backend services, building REST APIs, and writing maintainable code.  
-Comfortable solving real-world problems with structured and efficient solutions.
+<br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Reliable+Backend+Applications;Java+%7C+Spring+Boot+%7C+Microservices;Designing+RESTful+APIs;Learning+%26+Building+Every+Day" />
 
----
+<br/><br/>
 
-## Skills
-
-- Develop backend applications using Java, Spring, and Spring Boot
-- Build and manage RESTful APIs for scalable systems
-- Design and work with MySQL databases and data models
-- Understand and apply OOP principles in real-world applications
-- Implement microservices architecture and service-based design
-- Use Git and GitHub for version control and collaboration
-- Debug, test, and optimize application performance
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e9c6b57-9f0e-4f5b-bc1e-ff0c1c6fce7c.gif" width="100%" />
-</p>
-
----
-
-## GitHub Insights
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aadilnoor?style=for-the-badge&logo=github&color=1a1b27&labelColor=1a1b27" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=aadilnoor&style=for-the-badge&color=1a1b27&labelColor=1a1b27" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aadilnoor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadilnoor&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
+<a href="https://github.com/aadilnoor">
+<img src="https://img.shields.io/badge/GitHub-Aadil%20Noor-181717?style=for-the-badge&logo=github" />
+</a>
 <a href="https://www.linkedin.com/in/aadil-noor-93a244265">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:aadilnoor976@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/aadilnoor976">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p>
+
+</div>
+
+<br/>
+
+<!-- ================= ABOUT ================= -->
+
+## 👨‍💻 About Me
+
+```java
+public class AadilNoor {
+
+    String role = "Java Backend Developer";
+    String location = "Mumbai, India";
+
+    String[] languages = {
+        "Java", "SQL"
+    };
+
+    String[] technologies = {
+        "Spring Boot", "Spring Security",
+        "Hibernate", "REST APIs",
+        "Microservices", "MySQL"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "System Design",
+        "Database Optimization",
+        "Distributed Systems"
+    };
+
+    String currentFocus = "Building scalable backend applications";
+
+    void sayHello() {
+        System.out.println("Welcome to my GitHub profile!");
+    }
+}
+```
+
+I am a Java Backend Developer passionate about building reliable, secure, and maintainable backend applications.
+
+I work with Java, Spring Boot, REST APIs, databases, and microservices. I enjoy understanding how systems work internally and solving real-world development problems through clean and efficient code.
+
+- 🔭 Working on Java and Spring Boot projects.
+- 🌱 Exploring Microservices, Docker, and Kubernetes.
+- 💡 Interested in Backend Architecture and System Design.
+- 🎯 Focused on writing clean, maintainable code.
 
 ---
 
-## Philosophy
+<!-- ================= TECH STACK ================= -->
 
-<p align="center">
-"Consistency, clarity, and discipline in engineering define long-term impact."
+## 🛠️ Technology Stack
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
+
+### Database & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,oracle,redis" />
+</p>
+
+### DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,linux,postman" />
+</p>
+
+### Additional Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+**Core Concepts:** OOP, Collections Framework, Multithreading, Exception Handling, Stream API, JDBC, Spring Security, JWT, JPA, Hibernate, REST API Design.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=00F7FF" />
-</p>
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔐 OTP Generator System</h3>
+
+A secure OTP generation and validation system with time-based expiration.
+
+**Tech Stack**
+
+Java · Spring Boot · MySQL · Angular
+
+<a href="https://github.com/aadilnoor/otp-generator-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Authentication Service</h3>
+
+JWT-based authentication and authorization system with role-based access control.
+
+**Tech Stack**
+
+Java · Spring Boot · Spring Security · JWT
+
+<a href="https://github.com/aadilnoor/authentication-app">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilnoor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadilnoor&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilnoor&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTIONS ================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github.com/aadilnoor/aadilnoor/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, discussing backend engineering, and exploring new opportunities.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aadil-noor-93a244265">
+<img src="https://img.shields.io/badge/LinkedIn-Aadil%20Noor-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/aadilnoor">
+<img src="https://img.shields.io/badge/GitHub-aadilnoor-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:aadilnoor976@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-aadilnoor976%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💬 "First understand the problem, then write the code."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" width="100%" />
+
+</div>
