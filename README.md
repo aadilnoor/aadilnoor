@@ -16,55 +16,65 @@
 
 <!-- ABOUT ME -->
 
-<!-- ABOUT ME -->
-
-<h2 align="center">About Me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <div align="center">
 
-**Aadil Noor | Java Backend Developer | Mumbai, India**
+<h3> Aadil Noor </h3>
 
-Developing reliable, secure, and scalable backend applications using Java and Spring Boot.
+<strong>Java Backend Developer</strong> · Mumbai, India
+
+<br/>
+
+Building secure, scalable and maintainable backend applications with Java & Spring Boot.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-Java%20%7C%20Spring%20Boot-00D9FF?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/Architecture-Microservices-00D9FF?style=flat-square&labelColor=161B22" />
+<img src="https://img.shields.io/badge/API-RESTful-00D9FF?style=flat-square&labelColor=161B22" />
 
 </div>
 
 <br/>
 
-I am a Java Backend Developer focused on building maintainable backend applications and RESTful APIs. I have experience working with Spring Boot, Spring Security, Hibernate, and relational databases.
-
-I enjoy solving technical challenges, designing efficient backend solutions, and understanding application architecture.
-
-<br/>
-
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**Technical Expertise**
+### PROFILE
 
-- Java & Spring Boot
-- RESTful API Development
-- Spring Security & JWT
-- Hibernate & Spring Data JPA
-- MySQL & Oracle Database
-- Microservices Architecture
+Java Backend Developer focused on developing robust backend services and RESTful APIs. Experienced with Spring Boot, Spring Security, Hibernate, and relational databases.
+
+Passionate about backend engineering, clean code, problem-solving, and building efficient software solutions.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-**Areas of Interest**
+### TECHNICAL FOCUS
 
-- Backend System Design
+- Java & Spring Boot
+- REST API Development
+- Spring Security & JWT
+- Hibernate & JPA
+- MySQL & Oracle
+- Microservices
 - Database Optimization
-- API Security
-- Distributed Systems
 - Docker & Kubernetes
-- Application Performance
 
 </td>
 </tr>
 </table>
----
+
+<br/>
+
+<div align="center">
+
+**CURRENTLY FOCUSING ON**
+
+`Microservices` &nbsp; `Docker` &nbsp; `Kubernetes` &nbsp; `System Design`
+
+</div>
 
 <!-- TECH STACK -->
 
