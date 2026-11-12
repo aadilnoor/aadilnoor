@@ -16,25 +16,54 @@
 
 <!-- ABOUT ME -->
 
-## ⚡ About Me
+<!-- ABOUT ME -->
 
-Hi, I'm **Aadil Noor**, a Java Backend Developer from Mumbai, India.
+<h2 align="center">About Me</h2>
 
-I specialize in building backend applications using Java and Spring Boot, with a focus on developing secure REST APIs, managing databases, and implementing scalable application architectures.
+<div align="center">
 
-I enjoy solving programming challenges, understanding backend systems, and continuously improving my development skills.
+**Aadil Noor | Java Backend Developer | Mumbai, India**
 
-**What I work with:**
+Developing reliable, secure, and scalable backend applications using Java and Spring Boot.
 
-- Backend development using Java and Spring Boot.
-- RESTful API development and integration.
-- Database design and management using MySQL and Oracle.
-- Authentication and authorization using Spring Security and JWT.
-- Microservices architecture and service communication.
-- Application testing, debugging, and performance optimization.
+</div>
 
-**Currently Exploring:** Docker, Kubernetes, and System Design.
+<br/>
 
+I am a Java Backend Developer focused on building maintainable backend applications and RESTful APIs. I have experience working with Spring Boot, Spring Security, Hibernate, and relational databases.
+
+I enjoy solving technical challenges, designing efficient backend solutions, and understanding application architecture.
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Technical Expertise**
+
+- Java & Spring Boot
+- RESTful API Development
+- Spring Security & JWT
+- Hibernate & Spring Data JPA
+- MySQL & Oracle Database
+- Microservices Architecture
+
+</td>
+<td width="50%" valign="top">
+
+**Areas of Interest**
+
+- Backend System Design
+- Database Optimization
+- API Security
+- Distributed Systems
+- Docker & Kubernetes
+- Application Performance
+
+</td>
+</tr>
+</table>
 ---
 
 <!-- TECH STACK -->
