@@ -67,8 +67,7 @@ I enjoy solving programming challenges, understanding backend systems, and conti
 **DevOps & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman&theme=dark" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,postman" />
 </p>
 
 **Frontend Technologies**
