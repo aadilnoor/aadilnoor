@@ -10,23 +10,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/aadilnoor">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aadil-noor-93a244265">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aadilnoor976@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
 <!-- ABOUT ME -->
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
 Hi, I'm **Aadil Noor**, a Java Backend Developer from Mumbai, India.
 
@@ -43,7 +33,7 @@ I enjoy solving programming challenges, understanding backend systems, and conti
 - Microservices architecture and service communication.
 - Application testing, debugging, and performance optimization.
 
-**Currently Exploring:** Docker, Kubernetes, Microservices, and System Design.
+**Currently Exploring:** Docker, Kubernetes, and System Design.
 
 ---
 
@@ -60,8 +50,8 @@ I enjoy solving programming challenges, understanding backend systems, and conti
 **Database & Caching**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Oracle%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 **DevOps & Tools**
@@ -128,10 +118,6 @@ I enjoy solving programming challenges, understanding backend systems, and conti
 
 <a href="https://www.linkedin.com/in/aadil-noor-93a244265">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/aadilnoor">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:aadilnoor976@gmail.com">
