@@ -137,18 +137,6 @@ Passionate about backend engineering, clean code, problem-solving, and building 
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://github.com/aadilnoor/aadilnoor/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-</div>
-
----
-
 <!-- CONNECT -->
 
 ## 🤝 Connect With Me
